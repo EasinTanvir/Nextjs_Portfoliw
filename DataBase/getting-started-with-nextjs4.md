@@ -2,7 +2,7 @@
 slug: 'getting-started-with-nextjs4'
 title: 'Getting Started With Nextjs'
 image: getting-started-nextjs.png
-excerpt: Next js is the React framework
+excerpt: Next.js is a React framework that gives you building blocks to create web applications
 date: '2022-02-16'  
 isFeatured: true
 
